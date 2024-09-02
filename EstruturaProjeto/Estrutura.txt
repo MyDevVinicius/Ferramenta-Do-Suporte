@@ -1,0 +1,34 @@
+ferramenta-do-suporte/
+├── backend/
+│   ├── src/
+│   │   ├── Controllers/
+│   │   ├── Models/
+│   │   ├── Services/
+│   │   ├── Repositories/
+│   │   ├── Utilities/
+│   │   └── Program.cs
+│   ├── Tests/
+│   ├── Migrations/
+│   ├── appsettings.json
+│   ├── FerramentaDoSuporte.sln
+│   └── README.md
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── hooks/
+│   │   ├── utils/
+│   │   └── App.jsx
+│   ├── public/
+│   ├── tests/
+│   ├── package.json
+│   ├── vite.config.js
+│   └── README.md
+├── docs/
+│   └── README.md
+├── scripts/
+│   └── setup.sh
+├── .gitignore
+├── LICENSE
+└── README.md
