@@ -38,7 +38,7 @@ Antes de instalar e executar a Ferramenta do Suporte, certifique-se de que seu a
   - Uma distribuição Linux compatível (Ubuntu 20.04 ou superior, Fedora 34 ou superior, etc.)
 
 - **Linguagem de Programação**:
-  - **.NET 8** para o back-end
+  - **Node.js** para o back-end
 
 - **Banco de Dados**:
   - MySQL 8 ou superior
